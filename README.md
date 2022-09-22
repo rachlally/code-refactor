@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of the code refactor challenge was to explore and ensure that the Horiseon websites codebase met all accessibility standards.  By doing this, the website will be optimized for search engines.    
+The purpose of the code refactor challenge was to explore and ensure that the Horiseon website's codebase met all accessibility standards.  By doing this, the website will be optimized for search engines.    
 
 There were several elements missing including alt attributes and semantic HTML.  There were also styling and ordering issues to address.  The site was missing a title and links for better navigation through the page.  
 
